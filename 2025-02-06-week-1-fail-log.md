@@ -1,18 +1,8 @@
 # Week 1 fail log
 Admittedly, I had a difficult first week. I was able to create my GitHub and Perusall accounts but there were a few hiccups (that I annotated using Perusall).   
 
-## First Annotation
-My [first annotation](https://app.perusall.com/courses/empowering-anthropological-research-in-the-digital-age-dev-stantis/digital-anthropology-syllabus?annotationId=9gq6QyLZRRRtmGiQw) was about my engagement hours. I need to pay attention to Bookings requests- the head of the Center for Teaching Excellence taught me about them, but I'm not used to this feature of the school's Outlook system.
+## Week 2 
+This week I think I came in more confident than last week regarding the content and the websites used. I think I have a better understanding of what this class is discussing and what I am supposed to take away from this course. One thing I continuously struggle with is having 5 different websites that each have a specific role. It can be overwhelming and confusing to go back and forth, especially when the instructions are fast paced. I think I just need to work on organizing my digital files and bookmarks, and use them more before I feel confident in my fail log, blog, and other websites. 
 
-## Second Annotation
-My [second annotation](https://app.perusall.com/courses/empowering-anthropological-research-in-the-digital-age-dev-stantis/digital-anthropology-syllabus?annotationId=YMgufHS3YwDsSe442) relates to topics for the course. There's still some topics I'm not sure about. 
-
-
-## Third Annotation
-My [third annotation](https://app.perusall.com/courses/empowering-anthropological-research-in-the-digital-age-dev-stantis/digital-anthropology-syllabus?annotationId=SvtCsm8oFJ34ic5Wp) was a case of me remembering how daunting it was to first go through D2L. The first two semesters at SIU, I couldn't figure out how some students had added pronouns to their D2L profiles. 
-
-## Comments/Concerns
-
-Overall, this week went well. It seemed daunting at first, but I soon realized that everyone makes mistakes, especially when they are learning new skills, using new software, etc. **Making mistakes is part of the process and necessary to learn.**
-
-I am a bit concerned about diving into GitHub next week, but I see there are instruction videos which I imagine will help a lot!
+## Google Scholar 
+When I researched Open Data Archaeology on Google Scholar, I got many PDFs and online articles, many dating back over 10 years ago. ALmost, if not all, of the articles on Google Scholar were written and researched by reliable sources. Google (regular search engine) gave me a lot of AI generated information pulled from several articles with the key words. A lot of the articles and links that showed up were recent, but not entirely relating to my search. I also got many videos and articles from sources that I deemed unreliable, wether it was a .com website or someone making a video with no prior knowledge. Overall, Google Scholar is definitely more reliable for academic research, whereas google could be good for beginning research to find topics or media relating to a topic. 
