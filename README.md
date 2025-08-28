@@ -1,1 +1,4 @@
+## Week 1 
 Hi, I'm BiggieBrains and I am a senior studying anthropology at Southern Illinois University. My interests include archaeology, cultural anthropology, bioanthropology, and forensic anthropology. I think I enjoy learning about cultural anthropological topics more than the others, but I enjoy being in the field doing archaeological digs and excavations. My passion lies in learning about shared experiences and theories of evolution/ human experience. 
+## Week 2
+For week 2 we got started on Research Rabbit and learned how to create a collection and connect to our public class collection. We also explored google scholar a bit and saw the benefits of that search engine compared to regular search engines like google or bing. We also learned about using the Morris Library website on Salukinet to help us find books/ articles/ sources to help research in a scholarly way. 
